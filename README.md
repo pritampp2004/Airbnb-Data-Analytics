@@ -203,4 +203,14 @@ Create a new branch
 <img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/15842703-c4bf-4344-9f03-96df7b214c6d" />
 <img width="1189" height="590" alt="download" src="https://github.com/user-attachments/assets/91c48960-1a55-40bb-8b80-467bb2f7cdca" />
 
+👨‍💻 Author
 
+Pritam Patra
+
+Chemical Engineering Student | AI/ML Enthusiast | Data Analytics | Power BI | Web Developer
+
+📧 Email: pritampp2004@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/pritam-patra-55b22b269
+
+⭐ If you found this project useful, don't forget to star the repository!
