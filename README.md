@@ -2,7 +2,7 @@
 Create Airbnb Data Analytics using Python, Jupyter Notebook
 
 🎯 Objectives
-Clean and preprocess Airbnb data.
+Clean and preprocess Airbnb data. 
 Perform exploratory data analysis.
 Visualize trends and insights.
 Identify factors affecting listing prices.
