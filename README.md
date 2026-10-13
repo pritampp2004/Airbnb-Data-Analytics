@@ -7,7 +7,7 @@ Perform exploratory data analysis.
 Visualize trends and insights.
 Identify factors affecting listing prices.
 Analyze host and neighborhood performance.
-Generate actionable business recommendations.
+Generate actionable business recommendations.  
 
 📊 Dataset Features
 
